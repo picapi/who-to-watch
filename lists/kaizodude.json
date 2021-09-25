@@ -1,0 +1,19 @@
+{
+	"meta": {
+		"name": "Kaizodude",
+		"description": "Kaizodude",
+		"author": "Kaizodude"
+	},
+    "style": {
+
+    },
+	"entries": [
+		{
+			"name": "Kaizodude",
+            "description": "",
+			"streams": {
+				"twitch": "https://twitch.tv/kaizodude"
+			}
+		}
+	]
+}

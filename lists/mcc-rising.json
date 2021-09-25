@@ -1,0 +1,256 @@
+{
+	"meta": {
+		"name": "MCC Rising Participants",
+		"description": "This list contains all the participants in MCC Rising",
+		"author": "picapi_"
+	},
+    "style": {
+
+    },
+	"entries": [
+		{
+			"name": "KingOfArchery",
+            "description": "Test Description",
+			"streams": {
+				"twitch": "https://twitch.tv/kingofarchers"
+			}
+		},
+		{
+			"name": "Mejoraas",
+			"streams": {
+				"twitch": "https://twitch.tv/mejoraas"
+			}
+		},
+		{
+			"name": "Nicacolas",
+			"streams": {
+				"twitch": "https://twitch.tv/nicacola"
+			}
+		},
+		{
+			"name": "Yoshinom",
+			"streams": {
+				"twitch": "https://twitch.tv/yoshinom"
+			}
+		},
+		{
+			"name": "Owenge_Juice",
+			"streams": {
+				"twitch": "https://twitch.tv/owengejuicetv"
+			}
+		},
+		{
+			"name": "bekyamon",
+			"streams": {
+				"twitch": "https://twitch.tv/bekyamon"
+			}
+		},
+		{
+			"name": "riiceandbeanss",
+			"streams": {
+				"twitch": "https://twitch.tv/riiceandbeanss"
+			}
+		},
+		{
+			"name": "soupforeloise",
+			"streams": {
+				"twitch": "https://twitch.tv/soupforeloise"
+			}
+		},
+		{
+			"name": "BrunoDanUy",
+			"streams": {
+				"twitch": "https://twitch.tv/brunodanuy"
+			}
+		},
+		{
+			"name": "MrBeardstone",
+			"streams": {
+				"twitch": "https://twitch.tv/mrbeardstone"
+			}
+		},
+		{
+			"name": "mizzrowe",
+			"streams": {
+				"twitch": "https://twitch.tv/mizzrowe"
+			}
+		},
+		{
+			"name": "musicman1017",
+			"streams": {
+				"twitch": "https://twitch.tv/musicman1017"
+			}
+		},
+		{
+			"name": "Laqqy",
+			"streams": {
+				"twitch": "https://twitch.tv/Laqqqy"
+			}
+		},
+		{
+			"name": "MakoInari",
+			"streams": {
+				"twitch": "https://twitch.tv/makoinari"
+			}
+		},
+		{
+			"name": "marbar_x",
+			"streams": {
+				"twitch": "https://twitch.tv/marbar_x"
+			}
+		},
+		{
+			"name": "tomatobisque_",
+			"streams": {
+				"twitch": "https://twitch.tv/tomatobisquesoup"
+			}
+		},
+		{
+			"name": "MaxTLL",
+			"streams": {
+				"twitch": "https://twitch.tv/maxggs"
+			}
+		},
+		{
+			"name": "aimsey",
+			"streams": {
+				"twitch": "https://twitch.tv/aimsey"
+			}
+		},
+		{
+			"name": "billzo_",
+			"streams": {
+				"twitch": "https://twitch.tv/billzo"
+			}
+		},{
+			"name": "highkeyhateme",
+			"streams": {
+				"twitch": "https://twitch.tv/highkeyhateme"
+			}
+		},
+		{
+			"name": "Boosfer",
+			"streams": {
+				"twitch": "https://twitch.tv/boosfer"
+			}
+		},
+		{
+			"name": "Its_Dev_",
+			"streams": {
+				"twitch": "https://twitch.tv/kieranddev"
+			}
+		},
+		{
+			"name": "Kierrrr",
+			"streams": {
+				"twitch": "https://twitch.tv/kieranddev"
+			}
+		},
+		{
+			"name": "YelloWool",
+			"streams": {
+				"twitch": "https://twitch.tv/yellowool"
+			}
+		},
+		{
+			"name": "DarkEyebrows",
+			"streams": {
+				"twitch": "https://twitch.tv/darkeyebrows"
+			}
+		},
+		{
+			"name": "SpelledNik",
+			"streams": {
+				"twitch": "https://twitch.tv/spellednik"
+			}
+		},
+		{
+			"name": "caitees",
+			"streams": {
+				"twitch": "https://twitch.tv/caitees"
+			}
+		},
+		{
+			"name": "roseriie",
+			"streams": {
+				"twitch": "https://twitch.tv/roseriie"
+			}
+		},
+		{
+			"name": "Golemell",
+			"streams": {
+			},
+            "links": {
+                "Youtube Channel": "https://www.youtube.com/c/Golemell"
+            }
+		},
+		{
+			"name": "Guggleino",
+			"streams": {
+			},
+            "links": {
+                "Youtube Channel": "https://www.youtube.com/channel/UCldJD_3jvFXS5MWNjm1mLaA"
+            }
+		},
+		{
+			"name": "Stemister",
+			"streams": {
+				"twitch": "https://twitch.tv/stemister"
+			}
+		},
+		{
+			"name": "yomikester238",
+			"streams": {
+				"twitch": "https://twitch.tv/yomikester238"
+			}
+		},
+		{
+			"name": "R4b1ess",
+			"streams": {
+				"twitch": "https://twitch.tv/raehasrabies"
+			}
+		},
+		{
+			"name": "buggy9000",
+			"streams": {
+				"twitch": "https://twitch.tv/thebuggy9000"
+			}
+		},
+		{
+			"name": "mintsleaves",
+			"streams": {
+				"twitch": "https://twitch.tv/mintsleaves"
+			}
+		},
+		{
+			"name": "spoinkTV",
+			"streams": {
+				"twitch": "https://twitch.tv/spoinkTV"
+			}
+		},
+		{
+			"name": "Blushi",
+			"streams": {
+				"twitch": "https://twitch.tv/blushi"
+			}
+		},
+		{
+			"name": "SpeedSilver",
+			"streams": {
+				"twitch": "https://twitch.tv/speedsilver"
+			}
+		},
+		{
+			"name": "jojosolos",
+			"streams": {
+				"twitch": "https://twitch.tv/jojosolos"
+			}
+		},
+		{
+			"name": "xNestorio",
+			"streams": {
+				"twitch": "https://twitch.tv/xnestorio"
+			}
+		}
+	]
+}
