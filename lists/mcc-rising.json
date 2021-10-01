@@ -10,7 +10,6 @@
 	"entries": [
 		{
 			"name": "KingOfArchery",
-            "description": "Test Description",
 			"streams": {
 				"twitch": "https://twitch.tv/kingofarchers"
 			}
@@ -179,18 +178,14 @@
 		{
 			"name": "Golemell",
 			"streams": {
-			},
-            "links": {
-                "Youtube Channel": "https://www.youtube.com/c/Golemell"
-            }
+				"youtube": "https://www.youtube.com/c/Golemell/live"
+			}
 		},
 		{
 			"name": "Guggleino",
 			"streams": {
-			},
-            "links": {
-                "Youtube Channel": "https://www.youtube.com/channel/UCldJD_3jvFXS5MWNjm1mLaA"
-            }
+				"youtube": "https://www.youtube.com/channel/UCldJD_3jvFXS5MWNjm1mLaA/live"
+			}
 		},
 		{
 			"name": "Stemister",
